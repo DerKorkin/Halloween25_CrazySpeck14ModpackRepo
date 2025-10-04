@@ -5,5 +5,9 @@
 
 [death]
 	#Display death effect
-	"Display Death Effect?" = true
+	"Display Death Effect?" = false
+
+[shake]
+	#Does this mod make your window shake
+	"Window Shaking?" = true
 

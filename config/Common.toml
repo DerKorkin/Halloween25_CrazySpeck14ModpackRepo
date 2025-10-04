@@ -1,0 +1,51 @@
+
+[voidblocks]
+	#Can entities currupt void blocks around them?
+	"Void Blocks Corrupt?" = true
+
+[glitchblocks]
+	#Can glitch place glitch blocks?
+	"Glitch Blocks Spawn?" = true
+
+[kicking]
+	#Can abyss kick you from the world?
+	"Abyss Can Kick?" = false
+	#Can eyes kick you from the world?
+	"Eyes Can Kick?" = false
+	#Can unknown kick you from the world?
+	"Unknown Can Kick?" = false
+	#Can pseudo kick you from the world?
+	"Pseudo Can Kick?" = false
+
+[events]
+	#(stackable)
+	"Events Spawn Fast" = false
+	#(stackable)
+	"Events Spawn Faster" = false
+	#(stackable)
+	"Events Spawn Really Fast" = false
+	#less gui popups (leave all off for none)
+	"Gui 1" = true
+	#normal gui popups (leave all off for none)
+	"Gui 2" = true
+	#More gui popups (leave all off for none)
+	"Gui 3" = true
+
+[infection]
+	#Does err.infection spread?
+	"Err Infection Spreads" = true
+
+[entityspawn]
+	#Increases entity spawn rate (stackable)
+	"Entity Spawn Frequency Level 1" = true
+	#Increases entity spawn rate (stackable)
+	"Entity Spawn Frequency Level 2" = true
+	#Increases entity spawn rate (stackable)
+	"Entity Spawn Frequency Level 3" = false
+	#Increases entity spawn rate (stackable)
+	"Entity Spawn Frequency Level 4" = false
+	#Entities spawn in the nether?
+	"Entities Spawn In Nether" = true
+	#Extra entities (Void entities) spawn whenever?
+	"Extra Entities" = true
+
