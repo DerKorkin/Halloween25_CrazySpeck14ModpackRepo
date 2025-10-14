@@ -23,7 +23,7 @@
   "wool_burns // turn wool burning on or off": true,
   "dynamic_fog // experimental feature effects visibility in smoky areas": false,
   "flame_bow_on // flame enchanted vanilla bow can start the burn": true,
-  "fire_aspect_on // fire aspect enchanted tools can start the burn": false,
+  "fire_aspect_on // fire aspect enchanted tools can start the burn": true,
   "flame_particles": true,
   "smoke_particles": true,
   "distant_smoke": true,

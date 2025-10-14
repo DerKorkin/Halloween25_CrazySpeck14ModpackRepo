@@ -27,5 +27,5 @@
 	#You can put most entities in boats
 	Boating = false
 	#Do you want fire to spawn randomly?
-	"FIRE!" = true
+	"FIRE!" = false
 

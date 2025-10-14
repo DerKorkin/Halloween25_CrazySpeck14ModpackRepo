@@ -182,7 +182,7 @@
 		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
 		type = "PLAYING"
 		#The first line of text under the app name
-		description = "Spielt auf %servername% mit %players% Spielern"
+		description = "Spielt auf einem Server"
 		#The second line of text under the app name
 		state = "Spielt online"
 		#The Asset ID or URLs of images to randomly use for the large image
